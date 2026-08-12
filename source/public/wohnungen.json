@@ -1,5 +1,5 @@
 {
-  "aktualisiert_am": "2026-08-10",
+  "aktualisiert_am": "2026-08-12",
   "bezugspunkt": "Auf dem Meisenberg 19, 01099 Dresden",
   "wohnungen": [
     {
@@ -25,7 +25,7 @@
         "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-2-raum-we-mit-aufzug/3424425893-203-25309",
         "paywall": false
       },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0693091,
@@ -64,7 +64,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.066817,
@@ -104,7 +104,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0697756,
@@ -143,7 +143,7 @@
         "url": "https://www.immobilienscout24.de/expose/168687589",
         "paywall": false
       },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0707523,
@@ -182,7 +182,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -212,37 +212,7 @@
         "url": "https://www.immobilienscout24.de/expose/167634182",
         "paywall": false
       },
-      "abrufdatum": "2026-08-10",
-      "erstmals_gefunden_am": "2026-08-05",
-      "neu": false,
-      "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
-    },
-    {
-      "id": "IS24-168129082",
-      "titel": "Wohnen mit Charakter: 2-Zimmer-Wohnung",
-      "adresse": "Radeberger Vorstadt, 01099 Dresden",
-      "zimmer": 2,
-      "wohnflaeche_m2": 57,
-      "nettokaltmiete_eur": 553.7,
-      "nettokaltmiete_anzeige": "ca. 526–582 €",
-      "warmmiete_eur": 791,
-      "warmmiete_anzeige": "ca. 751–831 €",
-      "wg_eignung": "nach Grundriss prüfen",
-      "eignungshinweis": "Zwei Zimmer für zwei Personen; gleichwertige Zimmer und Zustimmung des Vermieters bitte prüfen.",
-      "verfuegbar_ab": "Juni 2026",
-      "anbieter": "WiD Wohnen in Dresden GmbH & Co. KG",
-      "quelle": "ImmoScout24",
-      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/168129082",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "organisation": "aktuelle:r Mieter:in",
-        "weg": "ImmoScout-Mieternetzwerk",
-        "url": "https://www.immobilienscout24.de/expose/168129082",
-        "paywall": true,
-        "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
-      },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -270,7 +240,7 @@
         "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-nahe-waldschloesschenbruecke/3441580974-203-25309",
         "paywall": false
       },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Die Warmmiete liegt unter 900 €; eine gesonderte Nettokaltmiete und genaue Adresse sind nicht veröffentlicht."
@@ -297,7 +267,7 @@
         "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-zur-miete-dresden-radeberger-vorstadt/3406704250-203-25309",
         "paywall": false
       },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-10",
       "kartenposition": {
         "breitengrad": 51.064325,
@@ -309,7 +279,7 @@
         "dauer_min": 19,
         "genauigkeit": "ungefähr"
       },
-      "neu": true,
+      "neu": false,
       "hinweis": "Fußweg ist ein Näherungswert auf Basis der veröffentlichten vollständigen Adresse."
     },
     {
@@ -336,7 +306,7 @@
         "url": "https://www.kleinanzeigen.de/s-anzeige/ab-september-sanierte-3-zimmer-wohnung-im-eg-wbs-notwendig/3476316133-203-25309",
         "paywall": false
       },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-10",
       "kartenposition": {
         "breitengrad": 51.0732,
@@ -348,7 +318,7 @@
         "dauer_min": 10,
         "genauigkeit": "ungefähr"
       },
-      "neu": true,
+      "neu": false,
       "hinweis": "WBS Typ pMW erforderlich. Kartenposition und Fußweg sind Näherungswerte zur veröffentlichten Adresse."
     },
     {
@@ -376,9 +346,9 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-10",
+      "abrufdatum": "2026-08-12",
       "erstmals_gefunden_am": "2026-08-10",
-      "neu": true,
+      "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
     }
   ]
