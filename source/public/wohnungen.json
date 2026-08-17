@@ -1,44 +1,7 @@
 {
-  "aktualisiert_am": "2026-08-12",
+  "aktualisiert_am": "2026-08-17",
   "bezugspunkt": "Auf dem Meisenberg 19, 01099 Dresden",
   "wohnungen": [
-    {
-      "id": "KA-3424425893",
-      "titel": "Sanierte 2-Raum-Wohnung für WG oder Standardvermietung",
-      "adresse": "Charlottenstraße 32, 01099 Dresden",
-      "zimmer": 2,
-      "wohnflaeche_m2": 62,
-      "nettokaltmiete_eur": 730,
-      "warmmiete_eur": 890,
-      "wg_eignung": "ausdrücklich genannt",
-      "eignungshinweis": "Das Inserat nennt die WG-Nutzung ausdrücklich; die beiden Wohn- und Schlafräume sind gleich groß.",
-      "verfuegbar_ab": "August 2026",
-      "anbieter": "Privater Anbieter",
-      "quelle": "Kleinanzeigen",
-      "direkte_inserats_url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-2-raum-we-mit-aufzug/3424425893-203-25309",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "person": "Jonas Rendler",
-        "weg": "Telefon und Kleinanzeigen-Nachricht",
-        "telefon": "+49 176 57629672",
-        "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-2-raum-we-mit-aufzug/3424425893-203-25309",
-        "paywall": false
-      },
-      "abrufdatum": "2026-08-12",
-      "erstmals_gefunden_am": "2026-08-05",
-      "kartenposition": {
-        "breitengrad": 51.0693091,
-        "laengengrad": 13.7821839,
-        "genauigkeit": "Adresse gefunden"
-      },
-      "fussweg": {
-        "distanz_m": 156,
-        "dauer_min": 2,
-        "genauigkeit": "Route berechnet"
-      },
-      "neu": false
-    },
     {
       "id": "IS24-169396994",
       "titel": "Wohnen mit Charakter: Drei-Zimmer-Wohnung auf der Bautzner Straße",
@@ -64,7 +27,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-12",
+      "abrufdatum": "2026-08-17",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.066817,
@@ -104,7 +67,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-12",
+      "abrufdatum": "2026-08-17",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0697756,
@@ -143,7 +106,7 @@
         "url": "https://www.immobilienscout24.de/expose/168687589",
         "paywall": false
       },
-      "abrufdatum": "2026-08-12",
+      "abrufdatum": "2026-08-17",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0707523,
@@ -182,7 +145,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-12",
+      "abrufdatum": "2026-08-17",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -212,101 +175,36 @@
         "url": "https://www.immobilienscout24.de/expose/167634182",
         "paywall": false
       },
-      "abrufdatum": "2026-08-12",
+      "abrufdatum": "2026-08-17",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
     },
     {
-      "id": "KA-3441580974",
-      "titel": "Helle 2-Zimmer-Wohnung nahe Waldschlößchenbrücke",
-      "adresse": "Radeberger Vorstadt, 01099 Dresden",
-      "zimmer": 2,
-      "wohnflaeche_m2": 52,
-      "nettokaltmiete_eur": null,
-      "nettokaltmiete_anzeige": "nicht separat angegeben",
-      "warmmiete_eur": 570,
-      "wg_eignung": "nach Grundriss prüfen",
-      "eignungshinweis": "Zwei Zimmer für zwei Personen; gleichwertige Zimmer und Zustimmung des Vermieters bitte prüfen.",
-      "verfuegbar_ab": "September 2026",
-      "anbieter": "Privater Anbieter",
-      "quelle": "Kleinanzeigen",
-      "direkte_inserats_url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-nahe-waldschloesschenbruecke/3441580974-203-25309",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "person": "Emma",
-        "weg": "Kleinanzeigen-Nachricht",
-        "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-nahe-waldschloesschenbruecke/3441580974-203-25309",
-        "paywall": false
-      },
-      "abrufdatum": "2026-08-12",
-      "erstmals_gefunden_am": "2026-08-05",
-      "neu": false,
-      "hinweis": "Die Warmmiete liegt unter 900 €; eine gesonderte Nettokaltmiete und genaue Adresse sind nicht veröffentlicht."
-    },
-    {
-      "id": "KA-3406704250",
-      "titel": "Helle 2-Zimmer-Wohnung zur Miete – Dresden Radeberger Vorstadt",
-      "adresse": "Bautzner Straße 72b, 01099 Dresden",
-      "zimmer": 2,
-      "wohnflaeche_m2": 30.8,
-      "nettokaltmiete_eur": 350,
-      "warmmiete_eur": 500,
-      "wg_eignung": "für zwei Personen geeignet",
-      "eignungshinweis": "Das Inserat nennt die Wohnung ausdrücklich als ideal für Singles oder Paare; Wohn-/Kochbereich und separates Schlafzimmer.",
-      "verfuegbar_ab": "sofort",
-      "anbieter": "Privater Anbieter",
-      "quelle": "Kleinanzeigen",
-      "direkte_inserats_url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-zur-miete-dresden-radeberger-vorstadt/3406704250-203-25309",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "organisation": "Privater Anbieter",
-        "weg": "Kleinanzeigen-Nachricht",
-        "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-zur-miete-dresden-radeberger-vorstadt/3406704250-203-25309",
-        "paywall": false
-      },
-      "abrufdatum": "2026-08-12",
-      "erstmals_gefunden_am": "2026-08-10",
-      "kartenposition": {
-        "breitengrad": 51.064325,
-        "laengengrad": 13.763701,
-        "genauigkeit": "Adresse gefunden"
-      },
-      "fussweg": {
-        "distanz_m": 1500,
-        "dauer_min": 19,
-        "genauigkeit": "ungefähr"
-      },
-      "neu": false,
-      "hinweis": "Fußweg ist ein Näherungswert auf Basis der veröffentlichten vollständigen Adresse."
-    },
-    {
-      "id": "KA-3476316133",
+      "id": "IS24-169783105",
       "titel": "Ab September – sanierte 3-Zimmer-Wohnung im EG – WBS notwendig",
       "adresse": "Am Jägerpark 66, 01099 Dresden",
       "zimmer": 3,
       "wohnflaeche_m2": 61.51,
       "nettokaltmiete_eur": 506.23,
-      "warmmiete_eur": 734,
+      "warmmiete_eur": 733.82,
       "wg_eignung": "nach Grundriss prüfen",
       "eignungshinweis": "Drei Zimmer und zwei Schlafzimmer für zwei Personen; Wohnberechtigungsschein Typ pMW ist zwingend erforderlich.",
       "verfuegbar_ab": "1. September 2026",
       "anbieter": "WiD Wohnen in Dresden GmbH & Co. KG",
-      "quelle": "Kleinanzeigen / WiD",
-      "direkte_inserats_url": "https://www.kleinanzeigen.de/s-anzeige/ab-september-sanierte-3-zimmer-wohnung-im-eg-wbs-notwendig/3476316133-203-25309",
+      "quelle": "ImmoScout24 / WiD",
+      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/169783105",
       "status": "aktiv geprüft",
       "tauschwohnung": false,
       "kontakt": {
         "organisation": "WiD Wohnen in Dresden GmbH & Co. KG",
-        "weg": "Telefon, E-Mail und Kleinanzeigen-Nachricht",
+        "weg": "Telefon, E-Mail und ImmoScout-Kontaktformular",
         "telefon": "+49 351 828731600",
         "email": "info@wid-dresden.de",
-        "url": "https://www.kleinanzeigen.de/s-anzeige/ab-september-sanierte-3-zimmer-wohnung-im-eg-wbs-notwendig/3476316133-203-25309",
+        "url": "https://www.immobilienscout24.de/expose/169783105",
         "paywall": false
       },
-      "abrufdatum": "2026-08-12",
+      "abrufdatum": "2026-08-17",
       "erstmals_gefunden_am": "2026-08-10",
       "kartenposition": {
         "breitengrad": 51.0732,
@@ -319,7 +217,7 @@
         "genauigkeit": "ungefähr"
       },
       "neu": false,
-      "hinweis": "WBS Typ pMW erforderlich. Kartenposition und Fußweg sind Näherungswerte zur veröffentlichten Adresse."
+      "hinweis": "WBS Typ pMW erforderlich. Kartenposition und Fußweg sind Näherungswerte zur veröffentlichten Adresse. Die identische WiD-Anzeige ist aktuell über ImmoScout24 erreichbar."
     },
     {
       "id": "IS24-166150446",
@@ -346,10 +244,80 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-12",
+      "abrufdatum": "2026-08-17",
       "erstmals_gefunden_am": "2026-08-10",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
+    },
+    {
+      "id": "IS24-168129082",
+      "titel": "Wohnen mit Charakter: 2-Zimmer-Wohnung in Dresden",
+      "adresse": "Radeberger Vorstadt, 01099 Dresden",
+      "zimmer": 2,
+      "wohnflaeche_m2": 57,
+      "nettokaltmiete_eur": 553.7,
+      "nettokaltmiete_anzeige": "ca. 526–582 €",
+      "warmmiete_eur": 791,
+      "warmmiete_anzeige": "ca. 751–831 €",
+      "wg_eignung": "für zwei Personen grundsätzlich geeignet",
+      "eignungshinweis": "Zwei Zimmer für zwei Personen; Aufteilung und Zustimmung des Vermieters bitte prüfen.",
+      "verfuegbar_ab": "Juni 2026",
+      "anbieter": "aktuelle:r Mieter:in",
+      "quelle": "ImmoScout24",
+      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/168129082",
+      "status": "aktiv geprüft",
+      "tauschwohnung": false,
+      "kontakt": {
+        "organisation": "aktuelle:r Mieter:in",
+        "weg": "ImmoScout-Mieternetzwerk/Paywall",
+        "url": "https://www.immobilienscout24.de/expose/168129082",
+        "paywall": true,
+        "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
+      },
+      "abrufdatum": "2026-08-17",
+      "erstmals_gefunden_am": "2026-08-05",
+      "neu": false,
+      "hinweis": "Das Angebot war zwischenzeitlich nicht erreichbar und ist wieder aktiv. Eine genaue Adresse wird öffentlich nicht angezeigt; Lage und Fußweg bleiben daher ausgeblendet."
+    },
+    {
+      "id": "IS24-166190542",
+      "titel": "2-Zimmer-Wohnung im EG barrierearm",
+      "adresse": "Am Jägerpark 83, 01099 Dresden",
+      "zimmer": 2,
+      "wohnflaeche_m2": 63.65,
+      "nettokaltmiete_eur": 636.5,
+      "warmmiete_eur": 891.1,
+      "wg_eignung": "für zwei Personen grundsätzlich geeignet",
+      "eignungshinweis": "Zwei Zimmer für zwei Personen; der offene Wohn-/Kochbereich und die Zustimmung des Vermieters zur WG-Nutzung sollten geprüft werden.",
+      "verfuegbar_ab": "sofort",
+      "anbieter": "WiD Wohnen in Dresden GmbH & Co. KG",
+      "quelle": "ImmoScout24 / WiD",
+      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/166190542",
+      "status": "aktiv geprüft",
+      "tauschwohnung": false,
+      "kontakt": {
+        "person": "WiD Team Vermietung",
+        "organisation": "WiD Wohnen in Dresden GmbH & Co. KG",
+        "weg": "Telefon, E-Mail und ImmoScout-Kontaktformular",
+        "telefon": "+49 351 828731600",
+        "email": "info@wid-dresden.de",
+        "url": "https://www.immobilienscout24.de/expose/166190542",
+        "paywall": false
+      },
+      "abrufdatum": "2026-08-17",
+      "erstmals_gefunden_am": "2026-08-17",
+      "kartenposition": {
+        "breitengrad": 51.073403,
+        "laengengrad": 13.788989,
+        "genauigkeit": "Adresse gefunden"
+      },
+      "fussweg": {
+        "distanz_m": 900,
+        "dauer_min": 11,
+        "genauigkeit": "ungefähr"
+      },
+      "neu": true,
+      "hinweis": "Fußweg ist ein Näherungswert zur öffentlich angegebenen vollständigen Adresse."
     }
   ]
 }
