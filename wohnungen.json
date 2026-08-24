@@ -1,5 +1,5 @@
 {
-  "aktualisiert_am": "2026-08-19",
+  "aktualisiert_am": "2026-08-24",
   "bezugspunkt": "Auf dem Meisenberg 19, 01099 Dresden",
   "wohnungen": [
     {
@@ -27,7 +27,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-19",
+      "abrufdatum": "2026-08-24",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.066817,
@@ -67,7 +67,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-19",
+      "abrufdatum": "2026-08-24",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0697756,
@@ -81,44 +81,6 @@
       },
       "neu": false,
       "hinweis": "Das Inserat veröffentlicht nur die Straße; Karte und Fußweg sind deshalb Näherungswerte."
-    },
-    {
-      "id": "IS24-168687589",
-      "titel": "Zwei-Zimmer-Wohnung an der Kamenzer Straße",
-      "adresse": "Kamenzer Straße 55, 01099 Dresden",
-      "zimmer": 2,
-      "wohnflaeche_m2": 60,
-      "nettokaltmiete_eur": 900,
-      "warmmiete_eur": 1170,
-      "wg_eignung": "nach Grundriss prüfen",
-      "eignungshinweis": "Zwei Zimmer für zwei Personen; gleichwertige Zimmer und Zustimmung des Vermieters bitte prüfen.",
-      "verfuegbar_ab": "sofort",
-      "anbieter": "Privater Anbieter",
-      "quelle": "ImmoScout24",
-      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/168687589",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "person": "Kerstin Mohr",
-        "organisation": "Haferkamp Immobilien, Büro Dresden",
-        "weg": "E-Mail und ImmoScout-Nachricht",
-        "email": "dresden@haferkamp-immobilien.de",
-        "url": "https://www.immobilienscout24.de/expose/168687589",
-        "paywall": false
-      },
-      "abrufdatum": "2026-08-19",
-      "erstmals_gefunden_am": "2026-08-05",
-      "kartenposition": {
-        "breitengrad": 51.0707523,
-        "laengengrad": 13.760092,
-        "genauigkeit": "Adresse gefunden"
-      },
-      "fussweg": {
-        "distanz_m": 1663,
-        "dauer_min": 20,
-        "genauigkeit": "Route berechnet"
-      },
-      "neu": false
     },
     {
       "id": "IS24-166681784",
@@ -145,7 +107,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-19",
+      "abrufdatum": "2026-08-24",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -175,7 +137,7 @@
         "url": "https://www.immobilienscout24.de/expose/167634182",
         "paywall": false
       },
-      "abrufdatum": "2026-08-19",
+      "abrufdatum": "2026-08-24",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -204,7 +166,7 @@
         "url": "https://www.immobilienscout24.de/expose/169783105",
         "paywall": false
       },
-      "abrufdatum": "2026-08-19",
+      "abrufdatum": "2026-08-24",
       "erstmals_gefunden_am": "2026-08-10",
       "kartenposition": {
         "breitengrad": 51.0732,
@@ -244,7 +206,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-19",
+      "abrufdatum": "2026-08-24",
       "erstmals_gefunden_am": "2026-08-10",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -274,7 +236,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-19",
+      "abrufdatum": "2026-08-24",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Das Angebot war zwischenzeitlich nicht erreichbar und ist wieder aktiv. Eine genaue Adresse wird öffentlich nicht angezeigt; Lage und Fußweg bleiben daher ausgeblendet."
@@ -304,7 +266,7 @@
         "url": "https://www.immobilienscout24.de/expose/166190542",
         "paywall": false
       },
-      "abrufdatum": "2026-08-19",
+      "abrufdatum": "2026-08-24",
       "erstmals_gefunden_am": "2026-08-17",
       "kartenposition": {
         "breitengrad": 51.073403,
@@ -342,10 +304,49 @@
         "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-nahe-waldschloesschenbruecke/3441580974-203-25309",
         "paywall": false
       },
-      "abrufdatum": "2026-08-19",
+      "abrufdatum": "2026-08-24",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Die Warmmiete liegt unter 900 €; eine gesonderte Nettokaltmiete und genaue Adresse sind nicht veröffentlicht."
+    },
+    {
+      "id": "IW-ddb3523f-a3c7-487a-8791-f965cad92e44",
+      "titel": "Ihre neue Wohnung – 2-Raumwohnung in der Nähe der Dresdner Heide",
+      "adresse": "Radeberger Straße 123, 01099 Dresden",
+      "zimmer": 2,
+      "wohnflaeche_m2": 51.66,
+      "nettokaltmiete_eur": 465,
+      "warmmiete_eur": 585,
+      "wg_eignung": "nach Grundriss prüfen",
+      "eignungshinweis": "Zwei Zimmer für zwei Personen; gleichwertige Zimmer und Zustimmung des Vermieters zur WG-Nutzung bitte prüfen.",
+      "verfuegbar_ab": "1. Oktober 2026",
+      "anbieter": "Quanta-Projektgesellschaft mbH",
+      "quelle": "Immowelt",
+      "direkte_inserats_url": "https://www.immowelt.de/expose/ddb3523f-a3c7-487a-8791-f965cad92e44",
+      "status": "aktiv geprüft",
+      "tauschwohnung": false,
+      "kontakt": {
+        "person": "Beatrix Stein-Schneider",
+        "organisation": "Quanta-Projektgesellschaft mbH",
+        "weg": "Telefon und Immowelt-Nachricht",
+        "telefon": "+49 351 2167465",
+        "url": "https://www.immowelt.de/expose/ddb3523f-a3c7-487a-8791-f965cad92e44",
+        "paywall": false
+      },
+      "abrufdatum": "2026-08-24",
+      "erstmals_gefunden_am": "2026-08-24",
+      "kartenposition": {
+        "breitengrad": 51.0713878,
+        "laengengrad": 13.7862871,
+        "genauigkeit": "Adresse gefunden"
+      },
+      "fussweg": {
+        "distanz_m": 1007,
+        "dauer_min": 12,
+        "genauigkeit": "ungefähr"
+      },
+      "neu": true,
+      "hinweis": "Fußweg ist ein Näherungswert zur öffentlich angegebenen vollständigen Adresse."
     }
   ]
 }
