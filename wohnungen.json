@@ -1,5 +1,5 @@
 {
-  "aktualisiert_am": "2026-08-31",
+  "aktualisiert_am": "2026-09-02",
   "bezugspunkt": "Auf dem Meisenberg 19, 01099 Dresden",
   "wohnungen": [
     {
@@ -27,7 +27,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-31",
+      "abrufdatum": "2026-09-02",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.066817,
@@ -67,7 +67,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-31",
+      "abrufdatum": "2026-09-02",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0697756,
@@ -107,7 +107,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-31",
+      "abrufdatum": "2026-09-02",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -137,49 +137,10 @@
         "url": "https://www.immobilienscout24.de/expose/167634182",
         "paywall": false
       },
-      "abrufdatum": "2026-08-31",
+      "abrufdatum": "2026-09-02",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
-    },
-    {
-      "id": "IS24-169783105",
-      "titel": "Ab September – sanierte 3-Zimmer-Wohnung im EG – WBS notwendig",
-      "adresse": "Am Jägerpark 66, 01099 Dresden",
-      "zimmer": 3,
-      "wohnflaeche_m2": 61.51,
-      "nettokaltmiete_eur": 506.23,
-      "warmmiete_eur": 733.82,
-      "wg_eignung": "nach Grundriss prüfen",
-      "eignungshinweis": "Drei Zimmer und zwei Schlafzimmer für zwei Personen; Wohnberechtigungsschein Typ pMW ist zwingend erforderlich.",
-      "verfuegbar_ab": "1. September 2026",
-      "anbieter": "WiD Wohnen in Dresden GmbH & Co. KG",
-      "quelle": "ImmoScout24 / WiD",
-      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/169783105",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "organisation": "WiD Wohnen in Dresden GmbH & Co. KG",
-        "weg": "Telefon, E-Mail und ImmoScout-Kontaktformular",
-        "telefon": "+49 351 828731600",
-        "email": "info@wid-dresden.de",
-        "url": "https://www.immobilienscout24.de/expose/169783105",
-        "paywall": false
-      },
-      "abrufdatum": "2026-08-31",
-      "erstmals_gefunden_am": "2026-08-10",
-      "kartenposition": {
-        "breitengrad": 51.0732,
-        "laengengrad": 13.7878,
-        "genauigkeit": "ungefähr (Straßenlage)"
-      },
-      "fussweg": {
-        "distanz_m": 850,
-        "dauer_min": 10,
-        "genauigkeit": "ungefähr"
-      },
-      "neu": false,
-      "hinweis": "WBS Typ pMW erforderlich. Kartenposition und Fußweg sind Näherungswerte zur veröffentlichten Adresse. Die identische WiD-Anzeige ist aktuell über ImmoScout24 erreichbar."
     },
     {
       "id": "IS24-166150446",
@@ -206,7 +167,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-31",
+      "abrufdatum": "2026-09-02",
       "erstmals_gefunden_am": "2026-08-10",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -236,7 +197,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-08-31",
+      "abrufdatum": "2026-09-02",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Das Angebot war zwischenzeitlich nicht erreichbar und ist wieder aktiv. Eine genaue Adresse wird öffentlich nicht angezeigt; Lage und Fußweg bleiben daher ausgeblendet."
@@ -266,7 +227,7 @@
         "url": "https://www.immobilienscout24.de/expose/166190542",
         "paywall": false
       },
-      "abrufdatum": "2026-08-31",
+      "abrufdatum": "2026-09-02",
       "erstmals_gefunden_am": "2026-08-17",
       "kartenposition": {
         "breitengrad": 51.073403,
@@ -304,7 +265,7 @@
         "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-nahe-waldschloesschenbruecke/3441580974-203-25309",
         "paywall": false
       },
-      "abrufdatum": "2026-08-31",
+      "abrufdatum": "2026-09-02",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Die Warmmiete liegt unter 900 €; eine gesonderte Nettokaltmiete und genaue Adresse sind nicht veröffentlicht."
@@ -333,7 +294,7 @@
         "url": "https://www.immowelt.de/expose/ddb3523f-a3c7-487a-8791-f965cad92e44",
         "paywall": false
       },
-      "abrufdatum": "2026-08-31",
+      "abrufdatum": "2026-09-02",
       "erstmals_gefunden_am": "2026-08-24",
       "kartenposition": {
         "breitengrad": 51.0713878,
