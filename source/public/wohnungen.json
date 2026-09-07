@@ -1,47 +1,7 @@
 {
-  "aktualisiert_am": "2026-09-02",
+  "aktualisiert_am": "2026-09-07",
   "bezugspunkt": "Auf dem Meisenberg 19, 01099 Dresden",
   "wohnungen": [
-    {
-      "id": "IS24-169396994",
-      "titel": "Wohnen mit Charakter: Drei-Zimmer-Wohnung auf der Bautzner Straße",
-      "adresse": "Bautzner Straße, 01099 Dresden",
-      "zimmer": 3,
-      "wohnflaeche_m2": 68,
-      "nettokaltmiete_eur": 560,
-      "nettokaltmiete_anzeige": "ca. 532–588 €",
-      "warmmiete_eur": 800,
-      "warmmiete_anzeige": "ca. 760–840 €",
-      "wg_eignung": "nach Grundriss prüfen",
-      "eignungshinweis": "Drei Zimmer für zwei Personen; Aufteilung und Zustimmung des Vermieters bitte prüfen.",
-      "verfuegbar_ab": "Juli 2026",
-      "anbieter": "WiD Wohnen in Dresden GmbH & Co. KG",
-      "quelle": "ImmoScout24",
-      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/169396994",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "organisation": "aktuelle:r Mieter:in",
-        "weg": "ImmoScout-Mieternetzwerk",
-        "url": "https://www.immobilienscout24.de/expose/169396994",
-        "paywall": true,
-        "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
-      },
-      "abrufdatum": "2026-09-02",
-      "erstmals_gefunden_am": "2026-08-05",
-      "kartenposition": {
-        "breitengrad": 51.066817,
-        "laengengrad": 13.7835384,
-        "genauigkeit": "ungefähr"
-      },
-      "fussweg": {
-        "distanz_m": 791,
-        "dauer_min": 10,
-        "genauigkeit": "ungefähr"
-      },
-      "neu": false,
-      "hinweis": "Das Inserat veröffentlicht nur die Straße; Karte und Fußweg sind deshalb Näherungswerte."
-    },
     {
       "id": "IS24-169371122",
       "titel": "Sehr helle 3-Zimmer-Wohnung im Waldschlösschenareal",
@@ -62,12 +22,12 @@
       "tauschwohnung": false,
       "kontakt": {
         "person": "Uwe Neumann",
-        "weg": "ImmoScout-Mieternetzwerk",
+        "weg": "ImmoScout-Mieternetzwerk/Paywall",
         "url": "https://www.immobilienscout24.de/expose/169371122",
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-02",
+      "abrufdatum": "2026-09-07",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0697756,
@@ -102,12 +62,12 @@
       "tauschwohnung": false,
       "kontakt": {
         "person": "Andy Goldbach",
-        "weg": "ImmoScout-Mieternetzwerk",
+        "weg": "ImmoScout-Mieternetzwerk/Paywall",
         "url": "https://www.immobilienscout24.de/expose/166681784",
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-02",
+      "abrufdatum": "2026-09-07",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -137,7 +97,7 @@
         "url": "https://www.immobilienscout24.de/expose/167634182",
         "paywall": false
       },
-      "abrufdatum": "2026-09-02",
+      "abrufdatum": "2026-09-07",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -167,7 +127,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-02",
+      "abrufdatum": "2026-09-07",
       "erstmals_gefunden_am": "2026-08-10",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -197,7 +157,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-02",
+      "abrufdatum": "2026-09-07",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Das Angebot war zwischenzeitlich nicht erreichbar und ist wieder aktiv. Eine genaue Adresse wird öffentlich nicht angezeigt; Lage und Fußweg bleiben daher ausgeblendet."
@@ -227,7 +187,7 @@
         "url": "https://www.immobilienscout24.de/expose/166190542",
         "paywall": false
       },
-      "abrufdatum": "2026-09-02",
+      "abrufdatum": "2026-09-07",
       "erstmals_gefunden_am": "2026-08-17",
       "kartenposition": {
         "breitengrad": 51.073403,
@@ -265,7 +225,7 @@
         "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-nahe-waldschloesschenbruecke/3441580974-203-25309",
         "paywall": false
       },
-      "abrufdatum": "2026-09-02",
+      "abrufdatum": "2026-09-07",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Die Warmmiete liegt unter 900 €; eine gesonderte Nettokaltmiete und genaue Adresse sind nicht veröffentlicht."
@@ -294,7 +254,7 @@
         "url": "https://www.immowelt.de/expose/ddb3523f-a3c7-487a-8791-f965cad92e44",
         "paywall": false
       },
-      "abrufdatum": "2026-09-02",
+      "abrufdatum": "2026-09-07",
       "erstmals_gefunden_am": "2026-08-24",
       "kartenposition": {
         "breitengrad": 51.0713878,
