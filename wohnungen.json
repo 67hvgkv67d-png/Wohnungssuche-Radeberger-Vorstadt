@@ -1,7 +1,86 @@
 {
-  "aktualisiert_am": "2026-09-07",
+  "aktualisiert_am": "2026-09-09",
   "bezugspunkt": "Auf dem Meisenberg 19, 01099 Dresden",
   "wohnungen": [
+    {
+      "id": "HK-207365",
+      "titel": "Hochwertig möblierte 2-Zimmer-Wohnung mitten in der Neustadt",
+      "adresse": "Kamenzer Straße 55, 01099 Dresden",
+      "zimmer": 2,
+      "wohnflaeche_m2": 60,
+      "nettokaltmiete_eur": 900,
+      "warmmiete_eur": 1170,
+      "wg_eignung": "für zwei Personen grundsätzlich geeignet",
+      "eignungshinweis": "Zwei Zimmer für zwei Personen; Wohnbereich und Küche sind offen gegliedert, daher Zimmeraufteilung und Zustimmung zur WG-Nutzung prüfen.",
+      "verfuegbar_ab": "sofort",
+      "anbieter": "Haferkamp Immobilien GmbH",
+      "quelle": "Haferkamp Immobilien",
+      "direkte_inserats_url": "https://haferkamp-immobilien.de/immobilien/etagenwohnung-in-dresden-miete-207365",
+      "status": "aktiv geprüft",
+      "tauschwohnung": false,
+      "kontakt": {
+        "person": "Kerstin Mohr",
+        "organisation": "Haferkamp Immobilien GmbH",
+        "weg": "Kontaktformular und E-Mail des Dresdner Büros",
+        "email": "dresden@haferkamp-immobilien.de",
+        "url": "https://haferkamp-immobilien.de/immobilien/etagenwohnung-in-dresden-miete-207365",
+        "paywall": false
+      },
+      "abrufdatum": "2026-09-09",
+      "erstmals_gefunden_am": "2026-09-09",
+      "kartenposition": {
+        "breitengrad": 51.0707523,
+        "laengengrad": 13.760092,
+        "genauigkeit": "Adresse gefunden"
+      },
+      "fussweg": {
+        "distanz_m": 1770,
+        "dauer_min": 21,
+        "genauigkeit": "ungefähr"
+      },
+      "neu": true,
+      "hinweis": "Fußweg ist ein Näherungswert zur öffentlich angegebenen vollständigen Adresse."
+    },
+    {
+      "id": "IS24-170605367",
+      "titel": "Im Preußischen Viertel: 2-Zimmer-Wohnung im Hochparterre",
+      "adresse": "Bachstraße 18, 01099 Dresden",
+      "zimmer": 2,
+      "wohnflaeche_m2": 57.36,
+      "nettokaltmiete_eur": 835,
+      "warmmiete_eur": 1060,
+      "wg_eignung": "für zwei Personen grundsätzlich geeignet",
+      "eignungshinweis": "Zwei Zimmer für zwei Personen; die offene Küche, Zimmeraufteilung und Zustimmung des Vermieters zur WG-Nutzung sollten geprüft werden.",
+      "verfuegbar_ab": "1. November 2026",
+      "anbieter": "DIVARES GmbH & Co. KG",
+      "quelle": "ImmoScout24 / Immowelt / DIVARES",
+      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/170605367",
+      "status": "aktiv geprüft",
+      "tauschwohnung": false,
+      "kontakt": {
+        "person": "Frank Nitzsche",
+        "organisation": "DIVARES GmbH & Co. KG",
+        "weg": "Telefon, E-Mail und ImmoScout-Kontaktformular",
+        "telefon": "+49 351 44494-61",
+        "email": "frank.nitzsche@divares.de",
+        "url": "https://www.immobilienscout24.de/expose/170605367",
+        "paywall": false
+      },
+      "abrufdatum": "2026-09-09",
+      "erstmals_gefunden_am": "2026-09-09",
+      "kartenposition": {
+        "breitengrad": 51.0693519,
+        "laengengrad": 13.7634063,
+        "genauigkeit": "Adresse gefunden"
+      },
+      "fussweg": {
+        "distanz_m": 1625,
+        "dauer_min": 19,
+        "genauigkeit": "ungefähr"
+      },
+      "neu": true,
+      "hinweis": "Fußweg ist ein Näherungswert zur öffentlich angegebenen vollständigen Adresse."
+    },
     {
       "id": "IS24-169371122",
       "titel": "Sehr helle 3-Zimmer-Wohnung im Waldschlösschenareal",
@@ -27,7 +106,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-07",
+      "abrufdatum": "2026-09-09",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0697756,
@@ -67,7 +146,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-07",
+      "abrufdatum": "2026-09-09",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -97,7 +176,7 @@
         "url": "https://www.immobilienscout24.de/expose/167634182",
         "paywall": false
       },
-      "abrufdatum": "2026-09-07",
+      "abrufdatum": "2026-09-09",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -127,7 +206,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-07",
+      "abrufdatum": "2026-09-09",
       "erstmals_gefunden_am": "2026-08-10",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -157,7 +236,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-07",
+      "abrufdatum": "2026-09-09",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Das Angebot war zwischenzeitlich nicht erreichbar und ist wieder aktiv. Eine genaue Adresse wird öffentlich nicht angezeigt; Lage und Fußweg bleiben daher ausgeblendet."
@@ -187,7 +266,7 @@
         "url": "https://www.immobilienscout24.de/expose/166190542",
         "paywall": false
       },
-      "abrufdatum": "2026-09-07",
+      "abrufdatum": "2026-09-09",
       "erstmals_gefunden_am": "2026-08-17",
       "kartenposition": {
         "breitengrad": 51.073403,
@@ -225,7 +304,7 @@
         "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-nahe-waldschloesschenbruecke/3441580974-203-25309",
         "paywall": false
       },
-      "abrufdatum": "2026-09-07",
+      "abrufdatum": "2026-09-09",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Die Warmmiete liegt unter 900 €; eine gesonderte Nettokaltmiete und genaue Adresse sind nicht veröffentlicht."
@@ -254,7 +333,7 @@
         "url": "https://www.immowelt.de/expose/ddb3523f-a3c7-487a-8791-f965cad92e44",
         "paywall": false
       },
-      "abrufdatum": "2026-09-07",
+      "abrufdatum": "2026-09-09",
       "erstmals_gefunden_am": "2026-08-24",
       "kartenposition": {
         "breitengrad": 51.0713878,
