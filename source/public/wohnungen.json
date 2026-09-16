@@ -1,7 +1,75 @@
 {
-  "aktualisiert_am": "2026-09-14",
+  "aktualisiert_am": "2026-09-16",
   "bezugspunkt": "Auf dem Meisenberg 19, 01099 Dresden",
   "wohnungen": [
+    {
+      "id": "IS24-102146810",
+      "titel": "Ruhig wohnen in der Prießnitzaue – 2-Zimmer-Wohnung mit Balkon",
+      "adresse": "Prießnitzaue 2, 01099 Dresden",
+      "zimmer": 2,
+      "wohnflaeche_m2": 49,
+      "nettokaltmiete_eur": 420,
+      "warmmiete_eur": 680,
+      "wg_eignung": "für zwei Personen grundsätzlich geeignet",
+      "eignungshinweis": "Zwei Zimmer mit einem ausgewiesenen Schlafzimmer; Nutzung durch zwei Personen und Zustimmung des Vermieters bitte prüfen.",
+      "verfuegbar_ab": "1. Dezember 2026",
+      "anbieter": "Barbara Uhlig Immobilien",
+      "quelle": "ImmoScout24",
+      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/102146810",
+      "status": "aktiv geprüft",
+      "tauschwohnung": false,
+      "kontakt": {
+        "person": "Barbara Uhlig",
+        "organisation": "Barbara Uhlig Immobilien",
+        "weg": "Telefon, E-Mail und ImmoScout-Kontaktformular",
+        "telefon": "+49 351 8024146; mobil +49 172 8826361",
+        "email": "barbara.uhlig@web.de",
+        "url": "https://www.immobilienscout24.de/expose/102146810",
+        "paywall": false
+      },
+      "abrufdatum": "2026-09-16",
+      "erstmals_gefunden_am": "2026-09-16",
+      "kartenposition": {
+        "breitengrad": 51.0653761,
+        "laengengrad": 13.7627211,
+        "genauigkeit": "Adresse gefunden"
+      },
+      "fussweg": {
+        "distanz_m": 1760,
+        "dauer_min": 23,
+        "genauigkeit": "ungefähr"
+      },
+      "neu": true,
+      "hinweis": "Fußweg ist ein Näherungswert zur öffentlich angegebenen vollständigen Adresse."
+    },
+    {
+      "id": "KA-3513277860",
+      "titel": "Gemütliche 2-Zimmer-Wohnung in der Radeberger Vorstadt sucht Nachmieter",
+      "adresse": "Radeberger Vorstadt, 01099 Dresden",
+      "zimmer": 2,
+      "wohnflaeche_m2": 43.5,
+      "nettokaltmiete_eur": null,
+      "nettokaltmiete_anzeige": "nicht separat angegeben",
+      "warmmiete_eur": 550,
+      "wg_eignung": "für zwei Personen grundsätzlich geeignet",
+      "eignungshinweis": "Das Inserat beschreibt die Wohnung als ideal für Singles; die Nutzung durch zwei Personen, Zimmeraufteilung und Zustimmung des Vermieters müssen daher geprüft werden.",
+      "verfuegbar_ab": "1. Januar 2027",
+      "anbieter": "Private Anbieterin",
+      "quelle": "Kleinanzeigen",
+      "direkte_inserats_url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-wohnung-in-der-radeberger-vorstadt-sucht-nachmieter/3513277860-203-25309",
+      "status": "aktiv geprüft",
+      "tauschwohnung": false,
+      "kontakt": {
+        "person": "Daria",
+        "weg": "Kleinanzeigen-Nachricht",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-wohnung-in-der-radeberger-vorstadt-sucht-nachmieter/3513277860-203-25309",
+        "paywall": false
+      },
+      "abrufdatum": "2026-09-16",
+      "erstmals_gefunden_am": "2026-09-16",
+      "neu": true,
+      "hinweis": "Die Warmmiete liegt unter 900 €; eine gesonderte Nettokaltmiete und genaue Adresse sind nicht veröffentlicht. Die Anbieterin nennt außerdem eine gewünschte Ablöse für die vorhandene Einrichtung, jedoch keinen Betrag."
+    },
     {
       "id": "HK-207365",
       "titel": "Hochwertig möblierte 2-Zimmer-Wohnung mitten in der Neustadt",
@@ -26,7 +94,7 @@
         "url": "https://haferkamp-immobilien.de/immobilien/etagenwohnung-in-dresden-miete-207365",
         "paywall": false
       },
-      "abrufdatum": "2026-09-14",
+      "abrufdatum": "2026-09-16",
       "erstmals_gefunden_am": "2026-09-09",
       "kartenposition": {
         "breitengrad": 51.0707523,
@@ -66,7 +134,7 @@
         "url": "https://www.immobilienscout24.de/expose/170605367",
         "paywall": false
       },
-      "abrufdatum": "2026-09-14",
+      "abrufdatum": "2026-09-16",
       "erstmals_gefunden_am": "2026-09-09",
       "kartenposition": {
         "breitengrad": 51.0693519,
@@ -106,7 +174,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-14",
+      "abrufdatum": "2026-09-16",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0697756,
@@ -146,7 +214,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-14",
+      "abrufdatum": "2026-09-16",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -176,7 +244,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-14",
+      "abrufdatum": "2026-09-16",
       "erstmals_gefunden_am": "2026-08-10",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
@@ -206,7 +274,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-14",
+      "abrufdatum": "2026-09-16",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Das Angebot war zwischenzeitlich nicht erreichbar und ist wieder aktiv. Eine genaue Adresse wird öffentlich nicht angezeigt; Lage und Fußweg bleiben daher ausgeblendet."
@@ -236,7 +304,7 @@
         "url": "https://www.immobilienscout24.de/expose/166190542",
         "paywall": false
       },
-      "abrufdatum": "2026-09-14",
+      "abrufdatum": "2026-09-16",
       "erstmals_gefunden_am": "2026-08-17",
       "kartenposition": {
         "breitengrad": 51.073403,
@@ -250,34 +318,6 @@
       },
       "neu": false,
       "hinweis": "Fußweg ist ein Näherungswert zur öffentlich angegebenen vollständigen Adresse."
-    },
-    {
-      "id": "KA-3441580974",
-      "titel": "Helle 2-Zimmer-Wohnung nahe Waldschlößchenbrücke",
-      "adresse": "Radeberger Vorstadt, 01099 Dresden",
-      "zimmer": 2,
-      "wohnflaeche_m2": 52,
-      "nettokaltmiete_eur": null,
-      "nettokaltmiete_anzeige": "nicht separat angegeben",
-      "warmmiete_eur": 570,
-      "wg_eignung": "nach Grundriss prüfen",
-      "eignungshinweis": "Zwei Zimmer für zwei Personen; gleichwertige Zimmer und Zustimmung des Vermieters bitte prüfen.",
-      "verfuegbar_ab": "September 2026",
-      "anbieter": "Privater Anbieter",
-      "quelle": "Kleinanzeigen",
-      "direkte_inserats_url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-nahe-waldschloesschenbruecke/3441580974-203-25309",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "person": "Emma",
-        "weg": "Kleinanzeigen-Nachricht",
-        "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-nahe-waldschloesschenbruecke/3441580974-203-25309",
-        "paywall": false
-      },
-      "abrufdatum": "2026-09-14",
-      "erstmals_gefunden_am": "2026-08-05",
-      "neu": false,
-      "hinweis": "Die Warmmiete liegt unter 900 €; eine gesonderte Nettokaltmiete und genaue Adresse sind nicht veröffentlicht."
     },
     {
       "id": "IW-ddb3523f-a3c7-487a-8791-f965cad92e44",
@@ -303,7 +343,7 @@
         "url": "https://www.immowelt.de/expose/ddb3523f-a3c7-487a-8791-f965cad92e44",
         "paywall": false
       },
-      "abrufdatum": "2026-09-14",
+      "abrufdatum": "2026-09-16",
       "erstmals_gefunden_am": "2026-08-24",
       "kartenposition": {
         "breitengrad": 51.0713878,
