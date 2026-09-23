@@ -1,7 +1,87 @@
 {
-  "aktualisiert_am": "2026-09-21",
+  "aktualisiert_am": "2026-09-23",
   "bezugspunkt": "Auf dem Meisenberg 19, 01099 Dresden",
   "wohnungen": [
+    {
+      "id": "KA-3520193442",
+      "titel": "Sanierte 3-Zimmer-Wohnung – WBS notwendig",
+      "adresse": "Am Jägerpark 64, 01099 Dresden",
+      "zimmer": 3,
+      "wohnflaeche_m2": 61.51,
+      "nettokaltmiete_eur": 507,
+      "warmmiete_eur": 734,
+      "wg_eignung": "für zwei Personen grundsätzlich geeignet",
+      "eignungshinweis": "Drei Zimmer und zwei ausgewiesene Schlafzimmer; ein Wohnberechtigungsschein Typ pMW ist zwingend erforderlich. Die Zustimmung zur WG-Nutzung sollte geprüft werden.",
+      "verfuegbar_ab": "1. November 2026",
+      "anbieter": "WiD Wohnen in Dresden GmbH & Co. KG",
+      "quelle": "Kleinanzeigen / WiD",
+      "direkte_inserats_url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-3-zimmer-wohnung-wbs-notwendig/3520193442-203-25309",
+      "status": "aktiv geprüft",
+      "tauschwohnung": false,
+      "kontakt": {
+        "person": "WiD Team Vermietung",
+        "organisation": "WiD Wohnen in Dresden GmbH & Co. KG",
+        "weg": "Telefon, E-Mail und Kleinanzeigen-Nachricht",
+        "telefon": "+49 351 828731600",
+        "email": "info@wid-dresden.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-3-zimmer-wohnung-wbs-notwendig/3520193442-203-25309",
+        "paywall": false
+      },
+      "abrufdatum": "2026-09-23",
+      "erstmals_gefunden_am": "2026-09-23",
+      "kartenposition": {
+        "breitengrad": 51.0743424,
+        "laengengrad": 13.7904301,
+        "genauigkeit": "Adresse gefunden"
+      },
+      "fussweg": {
+        "distanz_m": 1200,
+        "dauer_min": 15,
+        "genauigkeit": "ungefähr"
+      },
+      "neu": true,
+      "hinweis": "WBS Typ pMW erforderlich. Fußweg ist ein Näherungswert zur öffentlich angegebenen vollständigen Adresse."
+    },
+    {
+      "id": "IS24-171045530",
+      "titel": "Unterm Dach im Preußischen Viertel",
+      "adresse": "Bautzner Straße 129, 01099 Dresden",
+      "zimmer": 3,
+      "wohnflaeche_m2": 95.44,
+      "nettokaltmiete_eur": 810,
+      "warmmiete_eur": 1020,
+      "wg_eignung": "für zwei Personen grundsätzlich geeignet",
+      "eignungshinweis": "Drei Zimmer mit zwei ausgewiesenen Schlafzimmern und zwei Bädern; die Zustimmung des Vermieters zur WG-Nutzung sollte geprüft werden.",
+      "verfuegbar_ab": "1. Dezember 2026",
+      "anbieter": "DIVARES GmbH & Co. KG",
+      "quelle": "ImmoScout24 / DIVARES",
+      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/171045530",
+      "status": "aktiv geprüft",
+      "tauschwohnung": false,
+      "kontakt": {
+        "person": "Emilia Franke",
+        "organisation": "DIVARES GmbH & Co. KG",
+        "weg": "Telefon, E-Mail und ImmoScout-Kontaktformular",
+        "telefon": "+49 351 44494-0",
+        "email": "info@divares.de",
+        "url": "https://www.immobilienscout24.de/expose/171045530",
+        "paywall": false
+      },
+      "abrufdatum": "2026-09-23",
+      "erstmals_gefunden_am": "2026-09-23",
+      "kartenposition": {
+        "breitengrad": 51.0668107,
+        "laengengrad": 13.7717379,
+        "genauigkeit": "Adresse gefunden"
+      },
+      "fussweg": {
+        "distanz_m": 950,
+        "dauer_min": 11,
+        "genauigkeit": "ungefähr"
+      },
+      "neu": true,
+      "hinweis": "Fußweg ist ein Näherungswert zur öffentlich angegebenen vollständigen Adresse."
+    },
     {
       "id": "IS24-170738031",
       "titel": "Alltagstaugliche 2-Zimmer-Wohnung in Dresden",
@@ -27,38 +107,10 @@
         "url": "https://www.immobilienscout24.de/expose/170738031",
         "paywall": true
       },
-      "abrufdatum": "2026-09-21",
+      "abrufdatum": "2026-09-23",
       "erstmals_gefunden_am": "2026-09-21",
-      "neu": true,
-      "hinweis": "Kontakt ausschließlich über das ImmoScout-Mieternetzwerk/Paywall. Keine sicher identische Zweitanzeige mit frei zugänglichem Kontakt gefunden. Das Inserat veröffentlicht nur den Stadtteil; deshalb werden keine Kartenposition und kein Fußweg angegeben."
-    },
-    {
-      "id": "KA-3513277860",
-      "titel": "Gemütliche 2-Zimmer-Wohnung in der Radeberger Vorstadt sucht Nachmieter",
-      "adresse": "Radeberger Vorstadt, 01099 Dresden",
-      "zimmer": 2,
-      "wohnflaeche_m2": 43.5,
-      "nettokaltmiete_eur": null,
-      "nettokaltmiete_anzeige": "nicht separat angegeben",
-      "warmmiete_eur": 550,
-      "wg_eignung": "für zwei Personen grundsätzlich geeignet",
-      "eignungshinweis": "Das Inserat beschreibt die Wohnung als ideal für Singles; die Nutzung durch zwei Personen, Zimmeraufteilung und Zustimmung des Vermieters müssen daher geprüft werden.",
-      "verfuegbar_ab": "1. Januar 2027",
-      "anbieter": "Private Anbieterin",
-      "quelle": "Kleinanzeigen",
-      "direkte_inserats_url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-wohnung-in-der-radeberger-vorstadt-sucht-nachmieter/3513277860-203-25309",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "person": "Daria",
-        "weg": "Kleinanzeigen-Nachricht",
-        "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-wohnung-in-der-radeberger-vorstadt-sucht-nachmieter/3513277860-203-25309",
-        "paywall": false
-      },
-      "abrufdatum": "2026-09-21",
-      "erstmals_gefunden_am": "2026-09-16",
       "neu": false,
-      "hinweis": "Die Warmmiete liegt unter 900 €; eine gesonderte Nettokaltmiete und genaue Adresse sind nicht veröffentlicht. Die Anbieterin nennt außerdem eine gewünschte Ablöse für die vorhandene Einrichtung, jedoch keinen Betrag."
+      "hinweis": "Kontakt ausschließlich über das ImmoScout-Mieternetzwerk/Paywall. Keine sicher identische Zweitanzeige mit frei zugänglichem Kontakt gefunden. Das Inserat veröffentlicht nur den Stadtteil; deshalb werden keine Kartenposition und kein Fußweg angegeben."
     },
     {
       "id": "HK-207365",
@@ -84,7 +136,7 @@
         "url": "https://haferkamp-immobilien.de/immobilien/etagenwohnung-in-dresden-miete-207365",
         "paywall": false
       },
-      "abrufdatum": "2026-09-21",
+      "abrufdatum": "2026-09-23",
       "erstmals_gefunden_am": "2026-09-09",
       "kartenposition": {
         "breitengrad": 51.0707523,
@@ -124,7 +176,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-21",
+      "abrufdatum": "2026-09-23",
       "erstmals_gefunden_am": "2026-08-05",
       "kartenposition": {
         "breitengrad": 51.0697756,
@@ -164,38 +216,8 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-21",
+      "abrufdatum": "2026-09-23",
       "erstmals_gefunden_am": "2026-08-05",
-      "neu": false,
-      "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
-    },
-    {
-      "id": "IS24-166150446",
-      "titel": "Helle 3-Zimmer-Wohnung mit 80 m² in Dresden",
-      "adresse": "Radeberger Vorstadt, 01099 Dresden",
-      "zimmer": 3,
-      "wohnflaeche_m2": 80,
-      "nettokaltmiete_eur": 737.1,
-      "nettokaltmiete_anzeige": "ca. 700–774 €",
-      "warmmiete_eur": 1053,
-      "warmmiete_anzeige": "ca. 1.000–1.106 €",
-      "wg_eignung": "für zwei Personen geeignet",
-      "eignungshinweis": "Das Inserat nennt die Wohnung als ideal für Paare oder kleine Familien; die konkrete Aufteilung bitte prüfen.",
-      "verfuegbar_ab": "Juni 2026",
-      "anbieter": "Aktueller Mieter",
-      "quelle": "ImmoScout24",
-      "direkte_inserats_url": "https://www.immobilienscout24.de/expose/166150446",
-      "status": "aktiv geprüft",
-      "tauschwohnung": false,
-      "kontakt": {
-        "person": "Hassan Rahmoun",
-        "weg": "ImmoScout-Mieternetzwerk/Paywall",
-        "url": "https://www.immobilienscout24.de/expose/166150446",
-        "paywall": true,
-        "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
-      },
-      "abrufdatum": "2026-09-21",
-      "erstmals_gefunden_am": "2026-08-10",
       "neu": false,
       "hinweis": "Eine genaue Adresse wird im Inserat nicht veröffentlicht; Lage und Fußweg werden daher nicht angezeigt."
     },
@@ -224,7 +246,7 @@
         "paywall": true,
         "alternativ_hinweis": "Keine sicher identische Anzeige mit frei zugänglichem Kontakt bei einem anderen Anbieter gefunden."
       },
-      "abrufdatum": "2026-09-21",
+      "abrufdatum": "2026-09-23",
       "erstmals_gefunden_am": "2026-08-05",
       "neu": false,
       "hinweis": "Das Angebot war zwischenzeitlich nicht erreichbar und ist wieder aktiv. Eine genaue Adresse wird öffentlich nicht angezeigt; Lage und Fußweg bleiben daher ausgeblendet."
@@ -254,7 +276,7 @@
         "url": "https://www.immobilienscout24.de/expose/166190542",
         "paywall": false
       },
-      "abrufdatum": "2026-09-21",
+      "abrufdatum": "2026-09-23",
       "erstmals_gefunden_am": "2026-08-17",
       "kartenposition": {
         "breitengrad": 51.073403,
@@ -293,7 +315,7 @@
         "url": "https://www.immowelt.de/expose/ddb3523f-a3c7-487a-8791-f965cad92e44",
         "paywall": false
       },
-      "abrufdatum": "2026-09-21",
+      "abrufdatum": "2026-09-23",
       "erstmals_gefunden_am": "2026-08-24",
       "kartenposition": {
         "breitengrad": 51.0713878,
